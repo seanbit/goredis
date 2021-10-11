@@ -1,4 +1,4 @@
-module goredis
+module github.com/seanbit/goredis
 
 go 1.14
 
